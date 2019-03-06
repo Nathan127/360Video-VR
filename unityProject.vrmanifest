@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.360vr.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\nathan.destafeno\\Box\\Research\\Unity Projects\\360 VR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "360 VR [Testing]"
+        }
+      }
+    }
+  ]
+}
